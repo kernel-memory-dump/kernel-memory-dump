@@ -1,5 +1,9 @@
 ### Kernel Memory Dump :toolbox:
 
+
+<p align="center" valign="center">
+<a href="https://www.linkedin.com/in/1337429001/">LinkedIn</a></p>
+
  - :briefcase: Software Crafstmanship is where theory meets implementation, where the art meets craft. Both pragmatism and elegance => Software Craftsmanship :hammer:
  
 
